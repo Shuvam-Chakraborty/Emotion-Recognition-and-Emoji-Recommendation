@@ -1,1 +1,1 @@
-# Emotion-Recognition-and-Emoji-Recommendation
+# Emotion-Recognition-and-Emoji-Recommendation using machine learning and neural networks
